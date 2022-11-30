@@ -1,0 +1,1 @@
+word_list = ("august", "airplane", "aviation", "airpods", "arbitrary","bedroom", "banana", "bicycle", "beauty", "iphone", "computer", "comcast", "pumpkin", "evins", "holiday", "music", "family", "school", "elect","faster", "earth", "eager", "solid", "sand", "stupid", "scar","virus", "monica")

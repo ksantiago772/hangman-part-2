@@ -11,7 +11,7 @@ def play(word):
 
 
 
- while guessed and num_lives > 0:
+ while not guessed and num_lives > 0:
     guess = input("What letter would you like to guess?").lower()
     if guess in guessed_letters:
         print("you already guessed the letter")
